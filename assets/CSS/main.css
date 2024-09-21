@@ -1,0 +1,18 @@
+table{
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    border-color: brown;
+}
+.type{
+    background-color:brown;
+    color: #fff;
+    height: 30px;
+    font-size: large;
+    padding-left: 115px;
+}
+td{
+    
+    padding-left: 120px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
